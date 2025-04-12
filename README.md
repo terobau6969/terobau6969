@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sakar Karki</h1>
 <h3 align="center">🚀 Aspiring IT Professional | Full-stack Dev | Graduate-to-be | AI Curious</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=I+build+cool+stuff+with+code;Mobile%2C+Web%2C+and+Automation;Hire+me+I'm+ready!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=terobau6969&style=flat-square&color=blue" alt="Visitor Counter" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
