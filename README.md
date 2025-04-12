@@ -19,13 +19,11 @@
 
 ### 🧰 Tech Toolbox
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
+[![React](https://img.shields.io/badge/-FlappyBird-blue?style=flat-square&logo=react)](https://terobau6969.github.io/Terobau69FlappyBird/)
+[![JS](https://img.shields.io/badge/-Etch--A--Sketch-yellow?style=flat-square&logo=javascript)](https://terobau6969.github.io/etch-a-sketch/)
+[![HTML](https://img.shields.io/badge/-OdinRecipes-orange?style=flat-square&logo=html5)](https://terobau6969.github.io/odin-recipies/)
+[![Python](https://img.shields.io/badge/-TerminalGame-blue?style=flat-square&logo=python)](https://github.com/terobau6969/Terobau_TerminalGame)
+
 
 ---
 
@@ -37,6 +35,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=terobau6969&style=flat-square&color=blue" alt="Visitor Counter" />
 </p>
+
 ---
 
 ### 🤝 Let’s Connect:
