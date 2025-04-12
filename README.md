@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=I+build+cool+stuff+with+code;Mobile%2C+Web%2C+and+Automation;Hire+me+I'm+ready!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terobau6969&style=flat-square&color=blue" alt="Visitor Counter" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -38,7 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=terobau6969&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=terobau6969&theme=radical&hide_border=true" height="150"/>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=terobau6969&style=flat-square&color=blue" alt="Visitor Counter" />
+</p>
 ---
 
 ### 🤝 Let’s Connect:
